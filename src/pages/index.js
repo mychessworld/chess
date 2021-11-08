@@ -26,7 +26,7 @@ export default function Home() {
           
 
           <p>
-            Follow me on <a href="https://share.chessbase.com/SharedGames/game/?p=yVz2UszaBg57ew4NOzwpjz9N2OO2cdGEAKiQa8Um0Py+9WdqWE/q6/nzzRjriz0u">Chessbase</a>!
+            Follow me on <a href="https://share.chessbase.com/SharedGames/game/?p=w5c9VhCYQQHT9S2f6ZMwNfU1FiNx1QA9vpp54orMtHuiU1RxXz7urJTkZ3UjfqGH">Chessbase</a>!
           </p>
 
           <Link className={styles.btn} to="/endgame">Endgames</Link>
