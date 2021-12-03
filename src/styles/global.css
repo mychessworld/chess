@@ -17,6 +17,36 @@ body {
 p {
   margin: 16px auto;
   line-height: 1.5em;
+  align-items: center;
+}
+
+h3 {
+  font-size: 1.5em !important;
+  font-weight: 200 !important;
+  margin-bottom: 20px !important;
+  text-align:center !important;
+  
+}
+h6 {
+    text-align:center !important;
+    
+    margin-top: -10% !important;
+  }
+
+  h5 {
+    font-size: 2.3em !important;
+    margin-top: 10% !important;
+    position: absolute !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    }
+
+Button {
+  display: flex !important; 
+  background: #df0fc3 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 5% !important;
 }
 
 /* layout & nav */
@@ -48,3 +78,4 @@ footer p{
   color: #bbb;
   margin: 40px auto;
 }
+
