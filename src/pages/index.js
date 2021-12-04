@@ -8,10 +8,8 @@ import { StaticImage } from "gatsby-plugin-image"
 import { Container, Row, Col, Button } from 'react-bootstrap'
 
 
-
 export default function Home() {
-  
-  
+    
     return (
     <Layout>
       <section>
